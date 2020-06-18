@@ -9,3 +9,14 @@ E:\LuuDuLieuSinhVien\PhanHoangGia\Buoi4\Buoi4\Buoi4\bin\Debug\Buoi4.pdb
 E:\LuuDuLieuSinhVien\PhanHoangGia\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.exe
 E:\LuuDuLieuSinhVien\PhanHoangGia\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.pdb
 E:\LuuDuLieuSinhVien\PhanHoangGia\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.Form_CauHinh.resources
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\bin\Debug\Buoi4.exe.config
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.exe
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.pdb
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\bin\Debug\Buoi4.exe
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\bin\Debug\Buoi4.pdb
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.loginForm.resources
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.frmMain.resources
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.Form_CauHinh.resources
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.Properties.Resources.resources
+C:\Users\Admin\Desktop\2001170358_ThanhHuy_Ptpm\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.csproj.GenerateResource.Cache
